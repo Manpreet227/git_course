@@ -15,7 +15,7 @@ So, this a bit technical/professional part of my about. The other part is that I
 
 I got some assignments for photography that went well. I am sharing some of pictures clicked by me. Please have a look. 
 
-![Display](pics/st1.jpg)                                        ![Display](pics/st3.jpg)
+![Display](pics/st1.jpg)                                                              ![Display](pics/st3.jpg)
 
 ##**My favourites**
 
