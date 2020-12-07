@@ -1,6 +1,6 @@
 Hey People...!
 
-I am Manpreet Kaur, a 23 year old Master's student of structural Engineering. I have done my Graduation from 
+I am Manpreet Kaur, a 23 year old Master's student of Structural Engineering. I have done my Graduation from 
 Guru Nanak Dev Engineering College, Ludhiana and I am doing my Post Graduation also from the same college. I have
 choose civil engineering as my option for graduation because I don't want to go for computer science engineering 
 (the other choice), as I HATE coding at that time. But, now I am learning python. Sometimes I think that this is 
@@ -15,7 +15,7 @@ So, this a bit technical/professional part of my about. The other part is that I
 
 I got some assignments for photography that went well. I am sharing some of pictures clicked by me. Please have a look. 
 
-![Display](pics/st1.jpg)              ![Display](pics/st3.jpg)
+![Display](pics/st1.jpg)                                                              ![Display](pics/st3.jpg)
 
 ##**My favourites**
 
